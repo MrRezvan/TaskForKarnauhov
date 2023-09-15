@@ -13,4 +13,11 @@
 и в url запрос к api попадают введённые пользователем данные, после чего ему показывается окончательный расчёт
 перевода валют.
 
-Спасибо за уделённое время.
+Чтобы запустить этот проект у вас должен быть установлен django, requests:
+
+git clone https://github.com/MrRezvan/TaskForKarnauhov.git
+cd TaskForKarnauhov
+source env/bin/activate
+python3 manage.py runserver
+
+Спасибо за уделённое время!
